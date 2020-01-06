@@ -28,7 +28,7 @@ ingress:
     requestType: web
     binding:
       name: "binding-mooc-cpat-ocp01-appid"
-      namespace: tool
+      namespace: "tool"
 
 #  host: hello
   namespaceInHost: true
